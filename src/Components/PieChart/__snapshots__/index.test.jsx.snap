@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PieChart/> Component renders <PieChart/>  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxjAm gMyFWH"
+  >
+    <div>
+      <canvas
+        class="chartjs-render-monitor"
+        height="0"
+        style="display: block;"
+        width="0"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

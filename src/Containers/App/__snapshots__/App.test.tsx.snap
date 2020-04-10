@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App/> Component renders <App/>  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fzqNJr eTiVkk"
+  >
+    <h2
+      class="sc-fzoyAV irMlCl"
+    >
+      EMI Calculator
+    </h2>
+    <h4
+      class="sc-fzoLag cwxDVD"
+    >
+      Calculate your Loan EMI & Total Interest Due
+    </h4>
+  </div>
+  <div
+    class="sc-AxirZ epPGuK"
+  >
+    <form
+      class="sc-AxhCb clIZyw"
+    >
+      <div
+        class="sc-AxhUy bAEQme"
+      >
+        <label
+          class="sc-AxheI dPheQk"
+        >
+          Loan Amount
+        </label>
+        <input
+          class="sc-AxgMl ldIRBI"
+          data-testid="principalInput"
+          name="principal"
+          value="10000"
+        />
+      </div>
+      <div
+        class="sc-AxhUy bAEQme"
+      >
+        <label
+          class="sc-AxheI dPheQk"
+        >
+          Interest Rate (%)
+        </label>
+        <input
+          class="sc-AxgMl ldIRBI"
+          data-testid="rateInput"
+          name="rate"
+          value="10"
+        />
+      </div>
+      <div
+        class="sc-AxhUy bAEQme"
+      >
+        <label
+          class="sc-AxheI dPheQk"
+        >
+          Tenure (Years)
+        </label>
+        <input
+          class="sc-AxgMl ldIRBI"
+          data-testid="tenureInput"
+          name="tenure"
+          value="1"
+        />
+      </div>
+    </form>
+    <h3
+      class="sc-Axmtr eBLoLY"
+    >
+      Your Monthly Loan EMI: 
+      <span
+        data-testid="emititle"
+      >
+        879
+      </span>
+    </h3>
+    <div
+      class="sc-fzozJi fpzqXb"
+    >
+      <div
+        class="sc-AxmLO hJIyVP"
+      >
+        <div
+          class="sc-fzplWN CdBNd"
+        >
+          <h3
+            class="sc-fzoLsD lloRMf"
+          >
+            Loan EMI
+          </h3>
+          <p
+            class="sc-fzpans cecatz"
+          >
+            879
+          </p>
+        </div>
+        <div
+          class="sc-fzplWN CdBNd"
+        >
+          <h3
+            class="sc-fzoLsD lloRMf"
+          >
+            Total Interest
+          </h3>
+          <p
+            class="sc-fzpans cecatz"
+            data-testid="interest"
+          >
+            550
+          </p>
+        </div>
+        <div
+          class="sc-fzplWN CdBNd"
+        >
+          <h3
+            class="sc-fzoLsD lloRMf"
+          >
+            Prinicipal
+          </h3>
+          <p
+            class="sc-fzpans cecatz"
+            data-testid="principal"
+          >
+            10000
+          </p>
+        </div>
+        <div
+          class="sc-fzplWN CdBNd"
+        >
+          <h3
+            class="sc-fzoLsD lloRMf"
+          >
+            Total payable
+          </h3>
+          <p
+            class="sc-fzpans cecatz"
+            data-testid="payable"
+          >
+            10550
+          </p>
+        </div>
+      </div>
+      <div
+        class="sc-AxmLO hJIyVP"
+      >
+        <h3
+          class="sc-fznyAO bnaQsZ"
+        >
+           Pie Chart
+        </h3>
+        <div
+          class="sc-fzqBZW laeCLi"
+        >
+          <div>
+            <canvas
+              class="chartjs-render-monitor"
+              height="0"
+              style="display: block;"
+              width="0"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxmLO hJIyVP"
+    >
+      <table
+        class="sc-fznKkj eUDXGF"
+      >
+        <thead>
+          <tr>
+            <th
+              class="sc-fzokOt kDWarP"
+            >
+              Month/Year
+            </th>
+            <th
+              class="sc-fzokOt kDWarP"
+            >
+              Prinicipal
+            </th>
+            <th
+              class="sc-fzokOt kDWarP"
+            >
+              Interest
+            </th>
+            <th
+              class="sc-fzokOt kDWarP"
+            >
+              Balance
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Apr 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              796
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              83
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              9204
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              May 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              802
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              77
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              8402
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Jun 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              809
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              70
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              7593
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Jul 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              816
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              63
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              6777
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Aug 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              823
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              56
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              5954
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Sep 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              830
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              50
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              5124
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Oct 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              836
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              43
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              4288
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Nov 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              843
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              36
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              3445
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Dec 2020
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              850
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              29
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              2594
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Jan 2021
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              858
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              22
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              1737
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Feb 2021
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              865
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              14
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              872
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              Mar 2021
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              872
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              7
+            </td>
+            <td
+              class="sc-fznZeY bPECWU"
+            >
+              0
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</DocumentFragment>
+`;

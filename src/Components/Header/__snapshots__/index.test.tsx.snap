@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> spec renders header component 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxjAm CNnaw"
+  >
+    <h2
+      class="sc-AxirZ Cttsw"
+    >
+      EMI Calculator
+    </h2>
+    <h4
+      class="sc-AxiKw HZTEe"
+    >
+      Calculate your Loan EMI & Total Interest Due
+    </h4>
+  </div>
+</DocumentFragment>
+`;
