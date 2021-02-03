@@ -13,6 +13,7 @@ interface PieChartProps {
   totalPayable: number;
 }
 
+// Using class component because Pie chart wasn't comptaible with functional components
 class PieChart extends Component<PieChartProps> {
   calculatePercentage = () => {
     const { totalPayable, interest } = this.props;
